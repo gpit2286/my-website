@@ -1,0 +1,82 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kyle W. Baldwin on Kyle W. Baldwin</title><link>https://kylebaldw.in/</link><description>Recent content in Kyle W. Baldwin on Kyle W. Baldwin</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kylebaldw.in/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://kylebaldw.in/posts/</link><pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate><guid>https://kylebaldw.in/posts/</guid><description/></item><item><title>Videos</title><link>https://kylebaldw.in/videos/</link><pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate><guid>https://kylebaldw.in/videos/</guid><description>&lt;div id="video-container" style="width: 100%; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around">
+&lt;a href="https://www.youtube.com/watch?v=xGfk7_y9_h8" data-sub-html=".caption" style="flex:0 0 250px">
+&lt;img src="https://img.youtube.com/vi/xGfk7_y9_h8/mqdefault.jpg">
+&lt;div class="caption" style="text-align: center;">
+&lt;h4>Symphony No. 4, Mvt. 3&lt;/h4>
+&lt;p>Mendelssohn&lt;/p>
+&lt;/div>
+&lt;/a>
+&lt;a href="https://www.youtube.com/watch?v=HGeMtQfckwg" data-sub-html=".caption" style="flex:0 0 250px">
+&lt;img src="https://img.youtube.com/vi/HGeMtQfckwg/mqdefault.jpg">
+&lt;div class="caption" style="text-align: center;">
+&lt;h4>Interplay for Three Violins&lt;/h4>
+&lt;p>C. Brubeck&lt;/p>
+&lt;/div>
+&lt;/a>
+&lt;a href="https://www.youtube.com/watch?v=NvulHIHgFgU" data-sub-html=".caption" style="flex:0 0 250px">
+&lt;img src="https://img.youtube.com/vi/NvulHIHgFgU/mqdefault.jpg">
+&lt;div class="caption" style="text-align: center;">
+&lt;h4>L'Histoire du soldat&lt;/h4>
+&lt;p>Stravinsky&lt;/p>
+&lt;/div>
+&lt;/a>
+&lt;a href="https://www.youtube.com/watch?v=nAS22wzH2jQ" data-sub-html=".caption" style="flex:0 0 250px">
+&lt;img src="https://img.youtube.com/vi/nAS22wzH2jQ/mqdefault.jpg">
+&lt;div class="caption" style="text-align: center;">
+&lt;h4>An Outdoor Overture&lt;/h4>
+&lt;p>Copland&lt;/p>
+&lt;/div>
+&lt;/a>
+&lt;a href="https://www.youtube.com/watch?v=_ftKEFpOyfk" data-sub-html=".caption" style="flex:0 0 250px">
+&lt;img src="https://img.youtube.com/vi/_ftKEFpOyfk/mqdefault.jpg">
+&lt;div class="caption" style="text-align: center;">
+&lt;h4>Academic Festival Overture&lt;/h4>
+&lt;p>Brahms&lt;/p>
+&lt;/div>
+&lt;/a>
+&lt;a href="https://www.youtube.com/watch?v=4SQfl5drvPE" data-sub-html=".caption" style="flex:0 0 250px">
+&lt;img src="https://img.youtube.com/vi/4SQfl5drvPE/mqdefault.jpg">
+&lt;div class="caption" style="text-align: center;">
+&lt;h4>Piano Concerto No. 4, Mvt. 3&lt;/h4>
+&lt;p>Beethoven&lt;/p>
+&lt;/div>
+&lt;/a>
+&lt;/div>
+&lt;script defer="defer">
+function checkJQuery() {
+if (typeof jQuery !== "undefined") {
+jQuery("#video-container").lightGallery({
+subHtmlSelectorRelative: true
+});
+} else {
+setTimeout(function() {
+checkJQuery();
+}, 100)
+}
+}
+checkJQuery();
+&lt;/script></description></item><item><title>About</title><link>https://kylebaldw.in/about/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>https://kylebaldw.in/about/</guid><description>&lt;img src="https://kylebaldw.in/images/pages/about/real_me.jpg" alt="Photo of Kyle Baldwin" style="height: 200px; float: left; margin: 8px 16px 8px 0px">
+Kyle Baldwin is an in-demand conductor and percussionist in the San Francisco Bay Area. Kyle holds various positions including Assistant Conductor for the Bay Area Rainbow Symphony, Director of the San Bruno School District’s after-school beginning band and orchestra music programs, and Percussion Instructor at Archbishop Riordan High School. In these positions, Kyle is dedicated to building community by recognizing diversity, fostering inclusion, and promoting excellence.
+&lt;p>Kyle has acquired a diverse background in conducting that allows him to create exciting and meaningful musical experiences. Kyle’s experience includes conducting symphony orchestras, wind ensembles, opera, chamber ensembles, and dance ensembles. Attending both international and domestic conducting seminars, Kyle has had the opportunity to work with leading conducting educators including Paul Vermel, Peter Jaffe, Maurice Peress, and Neil Thomson. In academic settings, Kyle studied conducting with Cyrus Ginwala, Wayne Gorder, Christopher James Lees, and Frank Wiley.&lt;/p>
+&lt;p>Kyle strives to work with living composers and has worked with distinguished composers such as Libby Larsen, Samuel Jones, Victoria Bond, and Avner Dorman. Kyle conducted the music of Dennis Tobenski with Tobenski singing and played percussion in the West coast premiere of Tobenski’s piece &lt;em>Only Air&lt;/em>. Kyle was instrumental in preparing the world premieres of Andrew Lippa’s &lt;em>I Am Harvey Milk&lt;/em> and June Bonacich’s &lt;em>Concerto for String Trio&lt;/em> written for the Little Stars Trio.&lt;/p>
+&lt;p>In addition to his artistic responsibilities, Kyle also serves as General Manager of the Los Angeles Conducting Workshop and Assistant to the Director for the Morrison Chamber Music Center.&lt;/p>
+&lt;p>When not pouring over his musical work, Kyle enjoys the problem solving involved with computer programming. Kyle is always trying to expand his abilities and knowledge and is currently in pursuit of becoming a polyglot. Kyle currently lives in San Francisco with his beautiful Japanese Blue Swordtail guppies.&lt;/p>
+&lt;h2 id="contact-me">Contact Me&lt;/h2>
+&lt;p>Do you like talking? I like listening. If you would like to reach me, please feel free to use the form below.&lt;/p>
+&lt;form name="contact" method="POST" data-netlify="true">
+&lt;div style="display: flex; width: 100%; flex-direction: row; flex-wrap: wrap; justify-content: space-between;">
+&lt;div style="display: flex; flex: 0 0 375px">
+&lt;label>Your Name: &lt;input style="width: 100%;" type="text" name="name" />&lt;/label>
+&lt;/div>
+&lt;div style="display: flex; flex: 0 0 375px">
+&lt;label>Email: &lt;input style="width: 100%;" type="text" name="email" />&lt;/label>
+&lt;/div>
+&lt;div style="display: flex; flex: 0 0 375px">
+&lt;label style="width: 100%;">Message: &lt;textarea rows="3" style="width: 100%;" name="message">&lt;/textarea>&lt;/label>
+&lt;/div>
+&lt;/div>
+&lt;div style="display: flex; width: 100%; flex-direction: row; flex-wrap: wrap; justify-content: center; margin-top: 16px;">
+&lt;button type="submit" style="background-color: rgb(45, 150, 189); padding:0.35em 1.2em; border:0.1em solid #000000; margin:0 0.3em 0.3em 0; border-radius:0.12em; box-sizing: border-box;
+  text-decoration:none; font-weight:300; color:#FFFFFF; text-align:center;">Send&lt;/button>
+&lt;/div>
+&lt;/form></description></item><item><title>Projects</title><link>https://kylebaldw.in/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kylebaldw.in/projects/</guid><description/></item></channel></rss>

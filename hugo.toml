@@ -1,0 +1,64 @@
+baseURL = 'https://kylebaldw.in/'
+theme = 'hugo-coder'
+languageCode = 'en-us'
+title = 'Kyle Baldwin'
+defaultcontentlanguage = 'en-us'
+
+paginate = 20
+
+disqusShortname = "kylebaldwin"
+
+[markup.highlight]
+style = "github-dark"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML for contact form 
+
+[params]
+  author = "Kyle Baldwin"
+  info = "Conductor of orchestras, not trains"
+  description = "Kyle Baldwin's personal website"
+  keywords = "conductor,musician,music,arranger"
+  avatarurl = "photos/squarehead.jpg"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.ico"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/gpit2286/"
+
+# Menu links
+#[[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+
+
+
